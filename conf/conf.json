@@ -1,0 +1,9 @@
+{
+    "factors":["Actionability", "Impact", "Side-effects", "Cost"],
+    "alternatives":{
+        "Alt1":"Something happens in this alternative",
+        "Alt2":"Something also happens in this alternative",
+        "Alt3":"Something does not happen in this alternative"
+    },
+    "bucket":"dm-app"
+}

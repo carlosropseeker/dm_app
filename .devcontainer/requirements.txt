@@ -1,0 +1,4 @@
+pandas
+streamlit
+boto3
+pandas
